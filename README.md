@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Hvitrevs</h1>
 <h3 align="center">I like building web apps</h3>
 
+- I'm facinated with AI and Machine Learning
+- Feel free to comment or pull any of my repos and give me your feedback
+- If you have an interesting project I will gladly collaborate
+- Ask me about my discord, my art and my framework experience
 
+  
 <h2 align="left">Tools and Skills: </h2>
 <details>
 <h3 align="left">Languages: </h3> 
