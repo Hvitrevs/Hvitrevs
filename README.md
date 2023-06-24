@@ -5,7 +5,7 @@
 - I'm facinated with AI and Machine Learning
 - Feel free to comment or pull any of my repos and give me your feedback
 - If you have an interesting project I will gladly collaborate
-- Ask me about my discord, my art and my framework experience
+- I'm on discord 
 
   
 <h2 align="left">Tools and Skills: </h2>
