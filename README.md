@@ -60,7 +60,7 @@
 <img src="https://vitejs.dev/logo.svg" alt="javascript" width="20" height="20"/>
 </p>
 
-## Thank you <3
+## Thank you :two_hearts:
 
 
 
