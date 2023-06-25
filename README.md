@@ -50,7 +50,7 @@
 <h2>My favorite projects: </h2> 
 
 ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
-
+<details>
 <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
   
 ### Utilized tools: 
@@ -59,6 +59,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://vitejs.dev/logo.svg" alt="javascript" width="20" height="20"/>
 </p>
+</details>
 
 ## Thank you :two_hearts:
 
