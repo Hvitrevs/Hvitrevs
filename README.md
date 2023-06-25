@@ -49,7 +49,7 @@
 
 <h2>My favorite projects: </h2> 
 
-### -[Weather-app-](https://github.com/Hvitrevs/Weather-app-)
+- ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
 <details>
 <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
   
