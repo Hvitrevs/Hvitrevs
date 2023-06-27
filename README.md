@@ -3,6 +3,7 @@
 <h1 align="center"> I'm Hvitrevs</h1>
 <h3 align="center">I like building web apps</h3>
 
+#
 - I'm facinated with AI and Machine Learning
 - I'm currently learning building different functional web apps with OpenAI API.
 - Feel free to comment or pull any of my repos and give me your feedback
