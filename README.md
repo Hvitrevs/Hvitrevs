@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/94/98/61/9498619ed1265495e18632e6db4c6592.gif" height = "200" width = "900" opacity="50%"></p>
-<h1 align="center">Hi 👋, I'm Hvitrevs</h1>
+<h1 align="center">Hi 👋</h1>
+<h1> I'm Hvitrevs</h1>
 <h3 align="center">I like building web apps</h3>
 
 - I'm facinated with AI and Machine Learning
