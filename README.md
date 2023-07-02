@@ -49,7 +49,7 @@
 </p>
 
 </details>
-#
+
 <h2>My favorite projects: </h2> 
 
 - ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
