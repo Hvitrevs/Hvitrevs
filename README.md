@@ -10,7 +10,7 @@
 - If you have an interesting project I will gladly collaborate
 - I'm on discord 
 
-#  
+  
 <h2 align="left">Tools and Skills: </h2>
 <details>
 <h3 align="left">Languages: </h3> 
@@ -49,7 +49,7 @@
 </p>
 
 </details>
-
+#
 <h2>My favorite projects: </h2> 
 
 - ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
