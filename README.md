@@ -56,6 +56,7 @@
 - ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
 <details>
 <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
+<img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/76c6fa0f-61a2-481b-8974-44f52b871dbe" alt="alt text" width="400">
   
 <p> Utilized tools: 
   <p align="left">
