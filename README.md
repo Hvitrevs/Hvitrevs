@@ -71,6 +71,7 @@
  - ### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
 <details>
 <p> Image generator with MERN. Utilizes OpenAI API. Built as a Dall-E replica.</p>
+<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="800">
 <p> Utilized tools:
   <p aling = "left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
