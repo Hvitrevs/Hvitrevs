@@ -68,6 +68,24 @@
   </p>
  </details>
 
+ - ### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
+<details>
+<p> Image generator with MERN. Utilizes OpenAI API. Built as a Dall-E replica.</p>
+<p> Utilized tools:
+  <p aling = "left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="40" height="40" alt="Inkscape"/>   
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="python" width="70" height="40"/>
+<img src="https://github.com/adrianhajdin/project_ai_mern_image_generation/blob/main/client/src/assets/logo.svg" alt="javascript" width="60" height="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
+</p>
+</p>
+</details>
+
 ## Thank you :two_hearts:
 
 
