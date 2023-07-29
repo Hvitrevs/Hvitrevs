@@ -55,12 +55,12 @@
 
 <h2>My favorite projects: </h2> 
 
-- ### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
-<details>
-<p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
-<img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/76c6fa0f-61a2-481b-8974-44f52b871dbe" alt="alt text" width="400">
+- #### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
+  <details>
+  <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
+  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/76c6fa0f-61a2-481b-8974-44f52b871dbe" alt="alt text" width="400">
   
-<p> Utilized tools: 
+  <p> Utilized tools: 
   <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
@@ -68,24 +68,26 @@
   </p>
  </details>
 
- - ### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
-<details>
-<p> Image generator with MERN. Utilizes OpenAI API. Built as a Dall-E replica.</p>
-<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="800">
-<p> Utilized tools:
-  <p aling = "left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="40" height="40" alt="Inkscape"/>   
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="python" width="70" height="40"/>
-<img src="https://github.com/adrianhajdin/project_ai_mern_image_generation/blob/main/client/src/assets/logo.svg" alt="javascript" width="60" height="15"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
-</p>
-</p>
-</details>
+ - #### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
+    <details>
+    <p> Image generator with MERN. Utilizes OpenAI API. Built as a Dall-E replica.</p>
+    <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="800">
+    <p> Utilized tools:
+    <p aling = "left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="40" height="40" alt="Inkscape"/>   
+    <img src="https://expressjs.com/images/express-facebook-share.png" alt="python" width="70" height="40"/>
+    <img src="https://github.com/adrianhajdin/project_ai_mern_image_generation/blob/main/client/src/assets/logo.svg" alt="javascript" width="60" height="15"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+   <img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
+    </p>
+    </p>
+    </details>
+
+  
 
 ## Thank you :two_hearts:
 
