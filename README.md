@@ -5,8 +5,7 @@
 
 #
 - I'm facinated with AI and Machine Learning
-- I'm currently building different functional web apps.
-- Feel free to comment or pull any of my repos and give me your feedback
+- I'm currently building different functional web apps
 - If you have an interesting project I will gladly collaborate
 - I'm on discord 
 
