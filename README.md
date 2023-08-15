@@ -22,7 +22,7 @@
 <h3 align="left"> Utils: </h3> 
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fessenceofchaos.github.io%2Fimages%2Ftypescript.png&f=1&nofb=1&ipt=c8ec17bd60cea93c144eabb1ac04ec282a0de4d333c182dc66d9cedf8be31d28&ipo=images" alt="git" width="40" height="40"/>
+ <img src="https://github.com/Hvitrevs/Hvitrevs/assets/134542496/a5ee9e87-989b-46f7-bd91-f563c8b9311f" alt="git" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -32,7 +32,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
+ 
+
 </p>
 
 <h3 align="left"> Design: </h3> 
