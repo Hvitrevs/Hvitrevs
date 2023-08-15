@@ -10,7 +10,7 @@
 - I'm on discord 
 
   
-<h2 align="left"> My Tools and Skills: </h2>
+<h2 align="left"> I use and familiar with: </h2>
 <details>
 <h3 align="left">Languages: </h3> 
 <p align="left">
