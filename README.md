@@ -74,7 +74,7 @@
  - #### [Dashboard design](https://github.com/Hvitrevs/Sales-dashboard)
     [See Live](https://incandescent-vacherin-43b64e.netlify.app)
     <details>
-      <p>Front end design sales dashboart utilizing recharts into responsive webpage.</p>
+      <p>Front-End sales dashboart utilizing recharts into responsive webpage. No server side.</p>
     </details>
 
  - #### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
