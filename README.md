@@ -61,7 +61,8 @@
   [See Live](https://magical-concha-6ccb16.netlify.app)
   <details>
   <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
-  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/76c6fa0f-61a2-481b-8974-44f52b871dbe" alt="alt text" width="400">
+  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/a1500d2b-0a46-46d6-9f4c-e4ce5377ad86" alt="alt text" width="400">
+  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/ac6ee9de-59c8-4704-93ba-d172566c6180" alt="alt text" width="400">
   
   <p> Utilized tools: 
   <p align="left">
