@@ -55,7 +55,7 @@
 
 </details>
 
-<h2>My favorite projects: </h2> 
+<h2>My Latest Projects: </h2> 
 
 - #### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
   [See Live](https://magical-concha-6ccb16.netlify.app)
