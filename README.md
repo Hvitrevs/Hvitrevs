@@ -61,8 +61,8 @@
   [See Live](https://magical-concha-6ccb16.netlify.app)
   <details>
   <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
-  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/a1500d2b-0a46-46d6-9f4c-e4ce5377ad86" alt="alt text" width="400">
-  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/ac6ee9de-59c8-4704-93ba-d172566c6180" alt="alt text" width="400">
+  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/a1500d2b-0a46-46d6-9f4c-e4ce5377ad86" alt="alt text" width="600">
+  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/ac6ee9de-59c8-4704-93ba-d172566c6180" alt="alt text" width="600">
   
   <p> Utilized tools: 
   <p align="left">
@@ -77,7 +77,7 @@
     [See Live](https://incandescent-vacherin-43b64e.netlify.app)
     <details>
       <p>Front-End sales dashboart utilizing recharts into responsive webpage. No server side.</p>
-      <img src="https://github.com/Hvitrevs/Hvitrevs/assets/134542496/815e3e61-1a49-454d-9802-d99e1f3a75c1" alt="alt text" width="400">
+      <img src="https://github.com/Hvitrevs/Hvitrevs/assets/134542496/815e3e61-1a49-454d-9802-d99e1f3a75c1" alt="alt text" width="600">
     </details>
 
  - #### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
