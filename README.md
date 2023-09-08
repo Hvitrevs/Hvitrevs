@@ -79,6 +79,7 @@
       <p>Front-End sales dashboart utilizing recharts into responsive webpage. No server side.</p>
       <img src="https://github.com/Hvitrevs/Hvitrevs/assets/134542496/815e3e61-1a49-454d-9802-d99e1f3a75c1" alt="alt text" width="600">
 
+      <p> Utilized tools: 
       </p>
       <p align-left>
       <img src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/typescript-logo.png" alt="git" width="40" height="40"/>
