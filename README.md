@@ -108,12 +108,6 @@
     </p>
     </details>
 
-  
-#
-
-[GitHub Streak](https://streak-stats.demolab.com?user=Hvitrevs&theme=dracula)(https://git.io/streak-stats)
-
-
 ## Thank you :two_hearts:
 
 
