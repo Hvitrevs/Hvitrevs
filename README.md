@@ -8,6 +8,7 @@
 - I'm currently building different functional web apps
 - If you have an interesting project I will gladly collaborate
 - I'm on discord Venusof12pm#1502
+-  Codepen https://codepen.io/Hvitrevs
 
   
 <h2 align="left"> I use and familiar with: </h2>
