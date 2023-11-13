@@ -55,59 +55,6 @@
 
 </details>
 
-<h2>My Latest Projects: </h2> 
-
-- #### [Weather-app-](https://github.com/Hvitrevs/Weather-app-)
-  [See Live](https://magical-concha-6ccb16.netlify.app)
-  <details>
-  <p>This is a weather API utilizer that transforms API data from open-metio.com into readable responsive webpage.</p>
-  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/a1500d2b-0a46-46d6-9f4c-e4ce5377ad86" alt="alt text" width="600">
-  <img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/ac6ee9de-59c8-4704-93ba-d172566c6180" alt="alt text" width="600">
-  
-  <p> Utilized tools: 
-  <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
-  </p>
- </details>
-
-
- - #### [Dashboard design](https://github.com/Hvitrevs/Sales-dashboard)
-    [See Live](https://incandescent-vacherin-43b64e.netlify.app)
-    <details>
-      <p>Front-End sales dashboart utilizing recharts into responsive webpage. No server side.</p>
-      <img src="https://github.com/Hvitrevs/Hvitrevs/assets/134542496/815e3e61-1a49-454d-9802-d99e1f3a75c1" alt="alt text" width="600">
-
-      <p> Utilized tools: 
-      </p>
-      <p align-left>
-      <img src="https://raw.githubusercontent.com/stephencorwin/stephencorwin/master/resources/typescript-logo.png" alt="git" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      <img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
-      </p>
-    </details>
-
- - #### [ImaGPT AI Image Generator](https://github.com/Hvitrevs/ImaGPT_AI_)
-    <details>
-    <p> Image generator with MERN. Utilizes OpenAI API. Built as a Dall-E replica.</p>
-    <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="800">
-    <p> Utilized tools:
-    <p aling = "left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="40" height="40" alt="Inkscape"/>   
-    <img src="https://expressjs.com/images/express-facebook-share.png" alt="python" width="70" height="40"/>
-    <img src="https://github.com/adrianhajdin/project_ai_mern_image_generation/blob/main/client/src/assets/logo.svg" alt="javascript" width="60" height="15"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-   <img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
-    </p>
-    </p>
-    </details>
-
 
 
 ## Thank you :two_hearts:
