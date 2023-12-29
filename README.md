@@ -44,7 +44,7 @@
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FAdobe_XD_CC_icon.svg%2F1200px-Adobe_XD_CC_icon.svg.png&amp;f=1&amp;nofb=1&amp;ipt=ed0482217fd53987bb66411b468ac6603751bffbbe55d3ce40e801f3a7595605&amp;ipo=images" alt="xd" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
  <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="40" height="40" alt="Inkscape"/>
 </p>
