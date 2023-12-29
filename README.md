@@ -7,7 +7,7 @@
 - I'm facinated with AI and Machine Learning
 - I'm currently building different functional web apps
 - If you have an interesting project I will gladly collaborate
--  Codepen https://codepen.io/Hvitrevs
+- I'm on Codepen https://codepen.io/Hvitrevs
 
   
 <h2 align="left"> I use and familiar with: </h2>
