@@ -4,7 +4,7 @@
 <h3 align="center">I like building web apps</h3>
 
 #
-- I'm facinated with AI and Machine Learning
+- I'm fascinated with AI and Machine Learning
 - I'm currently building different functional web apps
 - If you have an interesting project I will gladly collaborate
 - I'm on Codepen https://codepen.io/Hvitrevs
